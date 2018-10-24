@@ -1,0 +1,40 @@
+{
+    "feedJSON": [
+        {
+            "id": "1",
+            "title": "5bce47b5b6bfe8.17773518",
+            "date": "2 Nov 18",
+            "image_url": "TECHie"
+        }, 
+        {
+            "id": "2",
+            "title": "5bce47b5b6bfe8.17773518",
+            "date": "5 Sept 18",
+            "image_url": "TECHie"
+        },
+        {
+            "id": "3",
+            "title": "5bce47b5b6bfe8.17773518",
+            "date": "14 Jan 18",
+            "image_url": "TECHie"
+        },
+        {
+            "id": "4",
+            "title": "5bce47b5b6bfe8.17773518",
+            "date": "4 Jul 18",
+            "image_url": "TECHie"
+        },
+        {
+            "id": "5",
+            "title": "5bce47b5b6bfe8.17773518",
+            "date": "24 Mar 18",
+            "image_url": "TECHie"
+        },
+        {
+            "id": "6",
+            "title": "5bce47b5b6bfe8.17773518",
+            "date": "12 Feb 18",
+            "image_url": "TECHie"
+        }
+    ]
+}

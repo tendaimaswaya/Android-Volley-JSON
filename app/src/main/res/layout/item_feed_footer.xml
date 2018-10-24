@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<zw.co.loop.kotlinvolleyjson.util.FooterWithTopDividerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        style="@style/HNews.FeedFooter"
+        android:layout_marginStart="3dp"
+        android:layout_marginEnd="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal">
+
+    <ImageButton
+            android:id="@+id/item_comment"
+            style="@style/HNews.FeedAction"
+            android:src="@drawable/ic_comment" />
+
+    <ImageButton
+            android:id="@+id/item_like"
+            style="@style/HNews.FeedAction"
+            android:src="@drawable/ic_like" />
+
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right">
+
+        <ImageButton
+                android:id="@+id/item_more"
+                style="@style/HNews.FeedAction"
+                android:src="@drawable/ic_more" />
+
+    </LinearLayout>
+
+</zw.co.loop.kotlinvolleyjson.util.FooterWithTopDividerLayout>

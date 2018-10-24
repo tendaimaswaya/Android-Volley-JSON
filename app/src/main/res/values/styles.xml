@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="None"/>
+
+    <style name="HNews.Card" parent="CardView">
+        <item name="contentPadding">0dp</item>
+        <item name="cardCornerRadius">2dp</item>
+        <item name="cardPreventCornerOverlap">false</item>
+        <item name="android:background">@drawable/shape_card_background_default</item>
+    </style>
+
+    <style name="HNews.FeedAction" parent="None">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">@drawable/selector_card_button</item>
+    </style>
+    <style name="HNews.FeedFooter" parent="None">
+        <item name="dividerHeight">1dp</item>
+        <item name="dividerColor">@color/light_grey</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+
+</resources>
