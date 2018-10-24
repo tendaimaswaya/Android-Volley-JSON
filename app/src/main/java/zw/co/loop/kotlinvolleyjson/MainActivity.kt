@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity(), ClickListener {
     }
 
     //this is the location of your JSON file or your php file which echoes JSON formatted data
-    private val url:String = "http://auctionafricaonline.co.zw/w/kotlinTutorials/feed.JSON"      //here if you are using xampp on your local server, run cmd, type in ipconfig and detect your ip address (Dont forget to specify port number, if not using default one)
+    private val url:String = "http://ip_address/feed.JSON"      //here if you are using xampp on your local server, run cmd, type in ipconfig and detect your ip address (Dont forget to specify port number, if not using default one)
 
 
     //this is the arrayList of Type DataModel. It will hold data structured as DataModel
